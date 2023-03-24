@@ -1,3 +1,4 @@
+https://www.kaggle.com/competitions/lux-ai-season-2
 
 ## Quick Start
 
