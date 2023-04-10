@@ -12,7 +12,7 @@ pip install juxai-s2
 Run:
 
 ```
-luxai-s2 python/main.py python/main.py -s 42 -v 2 -o replay.html
+luxai-s2 python/main.py python/main.py -s 42 -v 3 -o replay.html
 ```
 
 ## Kits
